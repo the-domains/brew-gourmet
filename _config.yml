@@ -4,23 +4,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 1
+    permalink:
+      path: '/:title/'
 color:
   saturation: 0.2419355
   brandStrength: 0.8642959
-  lightness: 0.5448028
+  rhythmicContrast: 0.6935484
   brandColors:
     - '#3C493F'
     - '#7E8D85'
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-  rhythmicContrast: 0.6935484
+  lightness: 0.5448028
+typography_spectrum: 1
 layout_spectrum: 1
 name: Brew Gourmet
