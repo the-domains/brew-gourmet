@@ -1,3 +1,7 @@
+name: Brew Gourmet
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 1
 collections:
   - index:
       path: /
@@ -10,17 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 1
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.2419355
-  brandStrength: 0.03046595
-  lightness: 0.5448028
   brandColors:
     - '#3C493F'
     - '#7E8D85'
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-  rhythmicContrast: 0.6935484
-layout_spectrum: 1
-name: Brew Gourmet
+  brandStrength: 0.3125
+  lightness: 1
+  saturation: 0.8125
+  rhythmicContrast: 0.75
+purpose: []
